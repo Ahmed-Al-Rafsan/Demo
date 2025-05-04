@@ -1,1 +1,6 @@
 < html > "hello world" 
+<< html .log oneline
+coders Trust , HTML , 
+CSS 
+Java Script 
+have added new commits 
